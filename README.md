@@ -5,7 +5,7 @@
 
 #### Description of the game
 * Game starts with 5 words which was shuffled <br />
-* The goal of game is to find initial form of words <br />
+* Goal of the game is to find initial form of words <br />
 * If you figure out all words, you are the winner <br />
 
 #### Used technologies in creating:
